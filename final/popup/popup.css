@@ -23,6 +23,7 @@ li {
 }
 
 /*slideshow*/
+<<<<<<< HEAD
 
 * {box-sizing:border-box}
 
@@ -118,3 +119,5 @@ li {
   from {opacity: .4}
   to {opacity: 1}
 }
+=======
+>>>>>>> a1e9c6f68d16075de1dd7a99d583cfa5d302660c

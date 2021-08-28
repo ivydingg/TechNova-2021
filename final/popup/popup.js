@@ -2,6 +2,7 @@ var slideIndex = 1;
 showDivs(slideIndex);
 
 function plusDivs(n) {
+  console.log(n);
   showDivs(slideIndex += n);
 }
 
@@ -14,6 +15,11 @@ function showDivs(n) {
     x[i].style.display = "none";  
   }
   x[slideIndex-1].style.display = "block";  
+}
+
+window.onload = function () {
+  document.getElementById("prev").addEventListener("click", function() { plusDivs(-1) }, false);// plusDivs(-1));//.onclick = plusDivs(-1);
+  document.getElementById("next").addEventListener("click", function() { plusDivs(1) }, false);// plusDivs(1));//.onclick = plusDivs(1);
 }
 
 /*var saveNote = document.querySelector('#save-note');
