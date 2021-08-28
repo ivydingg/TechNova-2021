@@ -10,7 +10,7 @@ import pickle
 
 class GoodOnYou:
     def __init__(self):
-        self._driver = webdriver.Firefox(executable_path=os.environ['gecko_path'])
+        self._driver = webdriver.Chrome()
         self._driver.implicitly_wait(30)
         self._homepage_url = 'https://directory.goodonyou.eco/'
         # values to the given keys are names of radio buttons
@@ -173,6 +173,3 @@ class GoodOnYou:
             mapping[key] = brand_name
             time.sleep(3)
         return mapping
-
-
-
