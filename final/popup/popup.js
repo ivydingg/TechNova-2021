@@ -1,25 +1,31 @@
-var slideIndex = 1;
-showDivs(slideIndex);
 
-function plusDivs(n) {
-  console.log(n);
-  showDivs(slideIndex += n);
-}
-
-function showDivs(n) {
-  var i;
-  var x = document.getElementsByClassName("mySlides");
-  if (n > x.length) {slideIndex = 1}
-  if (n < 1) {slideIndex = x.length}
-  for (i = 0; i < x.length; i++) {
-    x[i].style.display = "none";  
-  }
-  x[slideIndex-1].style.display = "block";  
-}
 
 window.onload = function () {
-  document.getElementById("prev").addEventListener("click", function() { plusDivs(-1) }, false);// plusDivs(-1));//.onclick = plusDivs(-1);
-  document.getElementById("next").addEventListener("click", function() { plusDivs(1) }, false);// plusDivs(1));//.onclick = plusDivs(1);
+  const SECHAND = 0, NEW = 1;
+  var className = ["mySlides_secHand", "mySlides_new"];
+  var slideIndex = [1, 1];
+  showDivs(slideIndex[SECHAND], SECHAND);
+  showDivs(slideIndex[NEW], NEW);
+
+  function plusDivs(n, div) {
+    showDivs(slideIndex[div] += n, div);
+  }
+
+  function showDivs(n, div) {
+    var i;
+    var x = document.getElementsByClassName(className[div]);
+    if (n > x.length) {slideIndex[div] = 1}
+    if (n < 1) {slideIndex[div] = x.length}
+    for (i = 0; i < x.length; i++) {
+      x[i].style.display = "none";  
+    }
+    x[slideIndex[div]-1].style.display = "block";  
+  }
+
+  document.getElementById("prev_sechand").addEventListener("click", function() { plusDivs(-1, SECHAND) }, false);
+  document.getElementById("next_sechand").addEventListener("click", function() { plusDivs(1, SECHAND) }, false);
+  document.getElementById("prev_new").addEventListener("click", function() { plusDivs(-1, NEW) }, false);
+  document.getElementById("next_new").addEventListener("click", function() { plusDivs(1, NEW) }, false);
 }
 
 /*var saveNote = document.querySelector('#save-note');
