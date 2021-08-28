@@ -3,6 +3,9 @@
   <head>
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css"
     integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
+    
+    <link rel="stylesheet"
+          href="https://fonts.googleapis.com/css?family=Open+Sans">
 
     <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
 
@@ -15,17 +18,17 @@
   </head>
   <body>
     <div id="goodonyou-info">
-      <p class = "text">Current Page</p>
-      <p id="cost">$$$</p>
-      <h5>Rating</h5>
+      <p class="title">Current Page</p>
+      <p class="disp-cost" id="cost">$$$</p>
+      <p class="title">Rating</p>
       
-      <span class="fa fa-star checked"></span>
-      <span class="fa fa-star checked"></span>
-      <span class="fa fa-star"></span>
-      <span class="fa fa-star"></span>
-      <span class="fa fa-star"></span>
+      <span id="star0" class="fa fa-star checked"></span>
+      <span id="star1" class="fa fa-star checked"></span>
+      <span id="star2" class="fa fa-star"></span>
+      <span id="star3" class="fa fa-star"></span>
+      <span id="star4" class="fa fa-star"></span>
 
-      <p id="rate-description">Not Good Enough</p>
+      <p class="disp-rate" id="rate-description">loading...</p>
     </div>
     <div class="container">
       <h5>Shop second-hand</h5>
@@ -33,8 +36,10 @@
 
       <!-- Slideshow container -->
       <div class="w3-content w3-display-container">
-        <img class="mySlides_secHand" src="images/filler-meme.jpg" style="width:100%">
-        <img class="mySlides_secHand" src="images/tshirt-icon.jpg" style="width:100%">
+        <div class ="slideshow">
+          <img class="mySlides_secHand" src="images/filler-meme.jpg">
+          <img class="mySlides_secHand" src="images/tshirt-icon.jpg">
+        </div>
 
         <button class = "w3-button w3-display-left" id="prev_sechand">&#10094;</button>
         <button class = "w3-button w3-display-right" id="next_sechand">&#10095;</button>
@@ -50,8 +55,10 @@
 
       <!-- Slideshow container -->
       <div class="w3-content w3-display-container">
-        <img class="mySlides_new" src="images/filler-meme.jpg" style="width:100%">
-        <img class="mySlides_new" src="images/tshirt-icon.jpg" style="width:100%">
+        <div class ="slideshow">
+          <img class="mySlides_new" src="images/filler-meme.jpg">
+          <img class="mySlides_new" src="images/tshirt-icon.jpg">
+        </div>
 
         <button class = "w3-button w3-display-left" id="prev_new">&#10094;</button>
         <button class = "w3-button w3-display-right" id="next_new">&#10095;</button>

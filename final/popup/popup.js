@@ -22,11 +22,66 @@ window.onload = function () {
     x[slideIndex[div]-1].style.display = "block";  
   }
 
+  function updateStars(stars) {
+    for (i = 0; i < 5; i++) {
+      var idName = "star" + i;
+      if (i < stars)
+        document.getElementById(idName).className = "fa fa-star checked"; 
+      else
+        document.getElementById(idName).className = "fa fa-star"; 
+    }
+
+    var rateDesc = document.getElementById('rate-description');
+    var description = "";
+    switch(stars){
+      case 1: description = "We Avoid";
+      break;
+      case 2: description = "Not Good Enough";
+      break;
+      case 3: description = "It's a Start";
+      break;
+      case 4: description = "Good";
+      break;
+      case 5: description = "Great";
+      break;
+      default: description = "No Rating Found :(";
+    }
+    console.log(description);
+    rateDesc.innerHTML = description;
+  }
+  
+  function updateCost(cost) {
+    var costDisp = document.getElementById('cost');
+    costDisp.innerHTML = cost;
+  }
+  
+
+  updateStars(2);
   document.getElementById("prev_sechand").addEventListener("click", function() { plusDivs(-1, SECHAND) }, false);
   document.getElementById("next_sechand").addEventListener("click", function() { plusDivs(1, SECHAND) }, false);
   document.getElementById("prev_new").addEventListener("click", function() { plusDivs(-1, NEW) }, false);
   document.getElementById("next_new").addEventListener("click", function() { plusDivs(1, NEW) }, false);
 }
+
+
+chrome.tabs.query({
+  active: true,
+  lastFocusedWindow: true
+}, tabs => {
+  let url = tabs[0].url;
+  let notesList = document.getElementById("notes");
+
+  // Grab the notes for the page
+  chrome.storage.local.get(url, notes => {
+    if (notes[url]) {
+      for (var i = 0; i < notes[url].length; i++) {
+        var li = document.createElement("li");
+        li.appendChild(document.createTextNode(notes[url][i]));
+        notesList.appendChild(li);
+      }
+    }
+  });
+});
 
 /*var saveNote = document.querySelector('#save-note');
 var deleteNotes = document.querySelector('#delete-notes');
