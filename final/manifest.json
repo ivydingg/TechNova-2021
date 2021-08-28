@@ -1,8 +1,8 @@
 {
   "name": "Betterfly",
   "version": "0.0.1",
-  "description": "Take Notes on web pages!",
-  "permissions": ["tabs","activeTab","declarativeContent", "storage"],
+  "description": "Find sustainable purchase alternatives!",
+  "permissions": ["tabs","activeTab","declarativeContent", "storage", "fontSettings"],
   "background": {
     "scripts": ["background.js"],
     "persistent": false
