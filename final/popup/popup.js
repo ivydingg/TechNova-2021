@@ -1,6 +1,23 @@
-var saveNote = document.querySelector('#save-note');
+var slideIndex = 1;
+showDivs(slideIndex);
+
+function plusDivs(n) {
+  showDivs(slideIndex += n);
+}
+
+function showDivs(n) {
+  var i;
+  var x = document.getElementsByClassName("mySlides");
+  if (n > x.length) {slideIndex = 1}
+  if (n < 1) {slideIndex = x.length}
+  for (i = 0; i < x.length; i++) {
+    x[i].style.display = "none";  
+  }
+  x[slideIndex-1].style.display = "block";  
+}
+
+/*var saveNote = document.querySelector('#save-note');
 var deleteNotes = document.querySelector('#delete-notes');
-var notesField = document.querySelector('#note-value');
 
 
 // Populate Notes From Page
@@ -23,7 +40,6 @@ chrome.tabs.query({
   });
 });
 
-notesField.focus();
 
 // Delete Notes
 deleteNotes.onclick = function () {
@@ -51,7 +67,6 @@ saveNote.onclick = function () {
   }, function (tabs) {
     // Something
     let url = tabs[0].url;
-    let note = notesField.value;
     chrome.storage.local.get(url, notes => {
       if (notes[url])
         notes[url].push(note);
@@ -64,4 +79,4 @@ saveNote.onclick = function () {
     });
   });
   location.reload();
-};
+};*/

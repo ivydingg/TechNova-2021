@@ -1,5 +1,5 @@
 {
-  "name": "Note Taker Done App",
+  "name": "Betterfly",
   "version": "0.0.1",
   "description": "Take Notes on web pages!",
   "permissions": ["tabs","activeTab","declarativeContent", "storage"],
@@ -8,7 +8,13 @@
     "persistent": false
   },
   "page_action": {
-    "default_popup": "popup/popup.html"
+    "default_popup": "popup/popup.html",
+    "default_icon":{
+      "16": "popup/images/betterfly-logo.png",
+      "32": "popup/images/betterfly-logo.png",
+      "64": "popup/images/betterfly-logo.png",
+      "128": "popup/images/betterfly-logo.png"
+    }
   },
   "content_scripts": [
     {

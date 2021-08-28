@@ -3,17 +3,50 @@
   <head>
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css"
     integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
+
+    <!-- Add icon library -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
     <link rel="stylesheet" href="popup.css">
     <style>
     </style>
   </head>
   <body>
-    <div id="notes-container">
-      <h6>Notes on the Page</h6>
-      <ul id="notes"></ul>
+    <div id="goodonyou-info">
+      <h3>Current Page</h3>
+      <p id="cost">$$$</p>
+      <h5>Rating</h5>
+      
+      <span class="fa fa-star checked"></span>
+      <span class="fa fa-star checked"></span>
+      <span class="fa fa-star"></span>
+      <span class="fa fa-star"></span>
+      <span class="fa fa-star"></span>
+
+      <p id="rate-description">Not Good Enough</p>
     </div>
     <div class="container">
-      <textarea class="form-control" id="note-value"></textarea>
+      <h5>Shop second-hand</h5>
+      </br>
+
+      <!-- Slideshow container -->
+      <h2 class="w3-center">Manual Slideshow</h2>
+
+      <div class="w3-content w3-display-container">
+        <img class="mySlides" src="images/filler-meme.jpg" style="width:100%">
+        <img class="mySlides" src="images/tshirt-icon.jpg" style="width:100%">
+        <img class="mySlides" src="images/filler-meme.jpg" style="width:100%">
+        <img class="mySlides" src="images/tshirt-icon.jpg" style="width:100%">
+
+        <button class="w3-button w3-black w3-display-left" onclick="plusDivs(-1)">&#10094;</button>
+        <button class="w3-button w3-black w3-display-right" onclick="plusDivs(1)">&#10095;</button>
+      </div>
+      <br>
+
+      <script src="popup.js"></script>
+    </div>
+    <div class="container">
+      <h5>Shop new</h5>
       </br>
       <button class="btn btn-dark" id="save-note">Save Note</button>
       <button class="btn btn-danger" id="delete-notes">Clear Notes</button>
