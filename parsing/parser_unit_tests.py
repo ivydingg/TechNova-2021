@@ -68,6 +68,9 @@ class GoodOnYouTests:
             else:
                 test_result = 'FAILED'
             print('{} test #{} (brand_tag={}) in run_tests_separately()'.format(test_result, idx, brand_tag))
+            print('returned_mapping:', returned_mapping)
+            print('correct_mapping:', correct_mapping)
+            print()
 
     # passes all test brand_tags in one call to get_data
     def run_tests_simultaneously(self):
@@ -84,6 +87,6 @@ class GoodOnYouTests:
             print('{} test #{} (brand_tag={}) in run_tests_simultaneously()'.format(test_result, idx, brand_tag))
 
 
-# t = GoodOnYouTests()
-# t.run_tests_separately()
-# t.run_tests_simultaneously()
+t = GoodOnYouTests()
+t.run_tests_separately()
+t.run_tests_simultaneously()
