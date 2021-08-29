@@ -1,41 +1,75 @@
+
 body {
   padding-top: 10px;
   text-align: center;
+  background-color: #ffffff;
+}
+
+.goodonyou-info {
   background-color: #fff6f0;
+  display: block;
+  margin: 15px;
+  padding: 15px;
+  border-radius: 8px;
+}
+
+.buy-better-button {
+  background-color: #DA6239;
+  border: none;
+  color: white;
+  padding: 5px 7px;
+  height: 30px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 13px;
+  border-radius: 4px;
+}
+
+hr {
+  size: 5px;
+  border-style: solid;
+  border-color: #b7b7a4;
+  margin-bottom: 5px;
 }
 
 .checked {
   color: #cb997e;
+  font-size: 18px;
 }
 
 .title {
   color: #6b705c;
-  font-family: "Open Sans";
+  font-family: "Montserrat";
   font-weight: bold;
   font-size: 28px;
 }
 
-.disp-cost {
-  color: #CB997E;
-  font-family: "Open Sans";
-  font-size: 28px;
-  line-height: 60%;
+.rate-title {
+  color: #6b705c;
+  font-family: "Montserrat";
+  font-weight: bold;
+  font-size: 15px;
+  line-height: 15px;
 }
 
 .disp-rate {
   color: #6b705c;
-  font-family: "Open Sans";
+  font-family: "Montserrat";
   font-size: 12px;
 }
 
-.container {
-  width: 200px;
-  padding: 10px;
-  text-align: center;
+.subtitle {
+  color: #DA6239;
+  font-family: "Montserrat";
+  font-weight: bold;
+  font-size: 15px;
 }
 
-.goodonyou-info {
-  text-align: left;
+.container {
+  width: 250px;
+  padding: 10px;
+  text-align: center;
 }
 
 .slideshow {
@@ -43,21 +77,23 @@ body {
 }
 
 .mySlides_secHand {
-  width:100%; 
-  margin: 0; 
-  position: absolute; 
-  top: 50%;
-  -ms-transform: translateY(-50%);
-  transform: translateY(-50%);
+  max-width:100%;
+  max-height:100%;
+  display: block;
+  margin:  auto ;
 }
 
-.mySlides_new {
+.mySlides_new {/*
   width:100%; 
   margin: 0; 
   position: absolute; 
   top: 50%;
   -ms-transform: translateY(-50%);
-  transform: translateY(-50%);
+  transform: translateY(-50%);*/
+  max-width:100%;
+  max-height:100%;
+  display: block;
+  margin:  auto ;
 }
 
 li {

@@ -20,7 +20,19 @@ window.onload = function () {
     x[slideIndex[div]-1].style.display = "block";  
   }
 
-  function updateStars(stars) {
+  function updateStars(description) {
+    var stars = 0;
+    if (description == "We Avoid")
+      stars = 1;
+    if (description == "Not Good Enough")
+      stars = 2;
+    if (description == "It's a Start")
+      stars = 3;
+    if (description == "Good")
+      stars = 4;
+    if (description == "Great")
+      stars = 5;
+    
     for (i = 0; i < 5; i++) {
       var idName = "star" + i;
       if (i < stars)
@@ -30,30 +42,10 @@ window.onload = function () {
     }
 
     var rateDesc = document.getElementById('rate-description');
-    var description = "";
-    switch(stars){
-      case 1: description = "We Avoid";
-      break;
-      case 2: description = "Not Good Enough";
-      break;
-      case 3: description = "It's a Start";
-      break;
-      case 4: description = "Good";
-      break;
-      case 5: description = "Great";
-      break;
-      default: description = "No Rating Found :(";
-    }
-    console.log(description);
     rateDesc.innerHTML = description;
-  }
-  
-  function updateCost(cost) {
-    var costDisp = document.getElementById('cost');
-    costDisp.innerHTML = cost;
-  }
-  
-  updateStars(2);
+  }  
+
+  updateStars("Not Good Enough");
   document.getElementById("prev_sechand").addEventListener("click", function() { plusDivs(-1, SECHAND) }, false);
   document.getElementById("next_sechand").addEventListener("click", function() { plusDivs(1, SECHAND) }, false);
   document.getElementById("prev_new").addEventListener("click", function() { plusDivs(-1, NEW) }, false);
