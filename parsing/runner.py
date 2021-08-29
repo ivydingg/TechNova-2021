@@ -1,4 +1,5 @@
 from parse import GoodOnYou
+import json
 
 def get_brand_list_test(g):
     brands = g.get_some_brand_tags(g.get_categories_test(), True)
@@ -17,7 +18,7 @@ def write_to_file_data(brand_dict, names_list, filename):
         data = str(brand_dict[name])
         f.write(name + ': ' + data)
         f.write("\n")
-        print("{} of 264".format(i))
+        print("{} of 260".format(i))
         i += 1
     f.close()
 
@@ -35,23 +36,26 @@ def reformat_url_search(filename, brand_tags_list):
         file.write('\n')
     file.close()
 
+
 def main():
-    g = GoodOnYou()
+    # g = GoodOnYou()
 
     ############################ get brand tag list ##############################
     # brands_tags = get_brand_list_test(g)
     # write_to_file(brand_tags, 'brand_tags.txt')
 
     ######################## get brand name list and data ########################
-    brand_tags_list = read_file_split('brand_tags.txt')
+    # brand_tags_list = read_file_split('brand_tags.txt')
     # brand_tags_dict = g.get_data(brand_tags_list)
     # write_to_file_names(brand_tags_dict, 'brand_names.txt')
     # brand_names_list = read_file_split('brand_names.txt') 
     # write_to_file_data(brand_tags_dict, brand_names_list, 'brand_data.txt')
 
     ################## get brand name list formatted for url #####################
-    reformat_url_search('brand_url_search', brand_tags_list)
+    # reformat_url_search('brand_url_search', brand_tags_list)
 
-    print('done!')
+    ###################### reformatting brand data for json ######################
+
+    # print('done!')
 
 main()
