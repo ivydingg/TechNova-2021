@@ -70,7 +70,7 @@ chrome.tabs.query({
 }, tabs => {
   var parser = document.createElement('a');
   parser.href = tabs[0].url;
-  alert(parser.hostname.replace('www.', ''));
+  parser.hostname.replace('www.', '');
 });
 
 /*var saveNote = document.querySelector('#save-note');
