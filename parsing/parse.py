@@ -15,7 +15,8 @@ class GoodOnYou:
         self._homepage_url = 'https://directory.goodonyou.eco/'
         # values to the given keys are names of radio buttons
         # if the names change on the website, only update the values
-        self._valid_filters = {'Women':'Womenswear', 'Men':'Menswear', 'Kids':'Kids'}
+        # self._valid_filters = {'Women':'Womenswear', 'Men':'Menswear', 'Kids':'Kids'}
+        self._valid_filters = {'Kids':'Kids'}
 
     # returns homepage HTML (3 different pages can 
     # be returned based on which radio button is selected)
@@ -72,6 +73,21 @@ class GoodOnYou:
             tags_in_category = self._get_brand_tags_in(category)
             while not tags_in_category:
                 tags_in_category = self._get_brand_tags_in(category)
+            s = s.union(tags_in_category)
+        brand_tags = list(s)
+        if sort:
+            brand_tags.sort()
+        return brand_tags
+
+    def get_categories_test(self) -> list:
+        return list(self._get_categories_of('Kids'))
+
+    def get_some_brand_tags(self, categories, sort=False) -> list:
+        s = set()
+        for category in categories:
+            tags_in_category = self._get_brand_tags_in("activewear")
+            while not tags_in_category:
+                tags_in_category = self._get_brand_tags_in("activewear")
             s = s.union(tags_in_category)
         brand_tags = list(s)
         if sort:
