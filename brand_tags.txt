@@ -56,7 +56,6 @@ danskin
 day-won
 dazey-la
 dear-kate
-debenhams
 decathlon
 denham
 denizen-from-levis
@@ -183,7 +182,6 @@ pansy
 papaya
 patagonia
 perfect-moment
-picture
 playtex
 plein-sport
 prana
@@ -233,7 +231,6 @@ sweaty-betty
 tala
 target-australia
 team-timbuktu
-tek-gear
 tentree
 the-north-face
 the-upside
@@ -257,7 +254,6 @@ versace
 vivo-barefoot
 vyayama
 west-activewear
-wolven-threads
 yuki-threads
 zanni
 zella

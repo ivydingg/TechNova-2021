@@ -36,6 +36,18 @@ def reformat_url_search(filename, brand_tags_list):
         file.write('\n')
     file.close()
 
+def reformat_data_json(filename, brand_data):
+    file = open(filename, 'w')
+    i = 1
+    file.write("{")
+    for brand in brand_data:
+        ind = brand.index(":")
+        name = brand[:ind+1]
+        file.write("'name': "+name+", "+brand[ind+2:]+",\n")
+        print("{} of 260".format(i))
+        i += 1
+    file.write("{")
+    file.close()
 
 def main():
     # g = GoodOnYou()
@@ -54,8 +66,13 @@ def main():
     ################## get brand name list formatted for url #####################
     # reformat_url_search('brand_url_search', brand_tags_list)
 
-    ###################### reformatting brand data for json ######################
-
+    ##################### figuring out extra brands in list ######################
+    # brand_url_search_list = read_file_split('brand_url_search.txt')
     # print('done!')
+
+    ###################### reformatting brand data for json ######################
+    brand_data = read_file_split('brand_data.txt')
+    reformat_data_json('brand_data_json.txt', brand_data)
+
 
 main()

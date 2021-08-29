@@ -347,7 +347,7 @@ window.onload = function () {
   }
 
   function updateBrandName(hostname) {
-    document.getElementById("brand-name").innerHTML = hostname;
+    document.getElementById("brand-name").innerHTML = hostname.charAt(0).toUpperCase()+hostname.slice(1);
   }
 
   function updateStars(description) {
