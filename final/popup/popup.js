@@ -301,8 +301,9 @@ window.onload = function () {
       parser.href = tabs[0].url;
       hostname = cleanHostname(parser.hostname);
       if (brand_websites.includes(hostname)) {
+        // updateData(hostname);
         updateBrandName(hostname);
-        updateStars("It's a Start"); // just a test to make sure we got the stuff
+        updateStars("It's a Start"); 
       }
     });
   }
@@ -345,6 +346,31 @@ window.onload = function () {
       itemPrice.href = newUrls[slideIndex[div]-1];
     }
   }
+
+  // function findIndex(hostname) {
+  //   var file = 
+  //   var fr_url=new FileReader();
+  //   fr_url.onload=function(){
+  //     var brand_urls = fr_url.result;
+  //     brand_urls = brand_urls.replace('"','');
+  //     brand_urls = brand_urls.replace(',','');
+  //     brand_urls_list = brand_urls.split("\t\n");
+  //     var brand_index = brand_urls.index(hostname);
+  //     return brand_index;
+  //   }
+  //   fr_url.readAsText('brand_data.txt')
+  // }
+
+  // function updateData(hostname) {
+  //   var fr_data=new FileReader();
+  //   fr_data.onload=function(){
+  //     var brand_data = fr_data.result;
+  //     brand_data_list = brand_data.split("\n");
+  //     brand_data = brand_data_list[findIndex(hostname)];
+  //     alert(brand_data)
+  //   }   
+  //   fr_data.readAsText('brand_data.txt');
+  // }
 
   function updateBrandName(hostname) {
     document.getElementById("brand-name").innerHTML = hostname.charAt(0).toUpperCase()+hostname.slice(1);

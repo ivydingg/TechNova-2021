@@ -43,7 +43,7 @@ def reformat_data_json(filename, brand_data):
     for brand in brand_data:
         ind = brand.index(":")
         name = brand[:ind+1]
-        file.write("'name': "+name+", "+brand[ind+2:]+",\n")
+        file.write('{"name": "'+name+'", "data": "'+brand[ind+2:]+"},\n")
         print("{} of 260".format(i))
         i += 1
     file.write("{")
