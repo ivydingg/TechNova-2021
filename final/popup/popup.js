@@ -1,5 +1,3 @@
-
-
 window.onload = function () {
   const SECHAND = 0, NEW = 1;
   var className = ["mySlides_secHand", "mySlides_new"];
@@ -55,7 +53,6 @@ window.onload = function () {
     costDisp.innerHTML = cost;
   }
   
-
   updateStars(2);
   document.getElementById("prev_sechand").addEventListener("click", function() { plusDivs(-1, SECHAND) }, false);
   document.getElementById("next_sechand").addEventListener("click", function() { plusDivs(1, SECHAND) }, false);
@@ -70,7 +67,7 @@ chrome.tabs.query({
 }, tabs => {
   var parser = document.createElement('a');
   parser.href = tabs[0].url;
-  parser.hostname.replace('www.', '');
+  parser.hostname.replace('www.','');
 });
 
 /*var saveNote = document.querySelector('#save-note');
