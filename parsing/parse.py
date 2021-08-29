@@ -15,7 +15,8 @@ class GoodOnYou:
         self._homepage_url = 'https://directory.goodonyou.eco/'
         # values to the given keys are names of radio buttons
         # if the names change on the website, only update the values
-        self._valid_filters = {'Women':'Womenswear', 'Men':'Menswear', 'Kids':'Kids'}
+        # self._valid_filters = {'Women':'Womenswear', 'Men':'Menswear', 'Kids':'Kids'}
+        self._valid_filters = {'Kids':'Kids'}
 
     # returns homepage HTML (3 different pages can 
     # be returned based on which radio button is selected)
@@ -72,6 +73,25 @@ class GoodOnYou:
             tags_in_category = self._get_brand_tags_in(category)
             while not tags_in_category:
                 tags_in_category = self._get_brand_tags_in(category)
+            s = s.union(tags_in_category)
+        brand_tags = list(s)
+        if sort:
+            brand_tags.sort()
+        return brand_tags
+
+    def get_categories_test(self) -> list:
+        return list(self._get_categories_of('Kids'))
+
+    def get_some_brand_tags(self, categories, sort=False) -> list:
+        s = set()
+        for category in categories:
+            tags_in_category = self._get_brand_tags_in("activewear")
+            i = 0
+            while not tags_in_category:
+                i += 1
+                tags_in_category = self._get_brand_tags_in("activewear")
+                if (i > 10):
+                    break
             s = s.union(tags_in_category)
         brand_tags = list(s)
         if sort:
@@ -140,10 +160,10 @@ class GoodOnYou:
         mapping = {brand_name:data} 
         data['rating'] = self._get_brand_rating(html)
         data['price'] = self._get_brand_price(html)
-        data['planet_rating'] = self._get_brand_planet_rating(html)
-        data['people_rating'] = self._get_brand_people_rating(html)
-        data['animals_rating'] = self._get_brand_animals_rating(html)
-        data['message'] = self._get_brand_message(html)
+        # data['planet_rating'] = self._get_brand_planet_rating(html)
+        # data['people_rating'] = self._get_brand_people_rating(html)
+        # data['animals_rating'] = self._get_brand_animals_rating(html)
+        # data['message'] = self._get_brand_message(html)
         data['GoodOnYou_url'] = GoodOnYou_url
         
         return mapping

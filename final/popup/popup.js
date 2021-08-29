@@ -1,5 +1,3 @@
-
-
 window.onload = function () {
   const SECHAND = 0, NEW = 1;
   var className = ["mySlides_secHand", "mySlides_new"];
@@ -57,21 +55,11 @@ window.onload = function () {
 
 chrome.tabs.query({
   active: true,
-  lastFocusedWindow: true
+  lastFocusedWindow: true,
 }, tabs => {
-  let url = tabs[0].url;
-  let notesList = document.getElementById("notes");
-
-  // Grab the notes for the page
-  chrome.storage.local.get(url, notes => {
-    if (notes[url]) {
-      for (var i = 0; i < notes[url].length; i++) {
-        var li = document.createElement("li");
-        li.appendChild(document.createTextNode(notes[url][i]));
-        notesList.appendChild(li);
-      }
-    }
-  });
+  var parser = document.createElement('a');
+  parser.href = tabs[0].url;
+  parser.hostname.replace('www.','');
 });
 
 /*var saveNote = document.querySelector('#save-note');
