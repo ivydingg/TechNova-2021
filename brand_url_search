@@ -1,4 +1,3 @@
-const brand_websites = [
 	"2xu",
 	"anewday",
 	"abysse",
@@ -263,27 +262,3 @@ const brand_websites = [
 	"zanni",
 	"zella",
 	"zennomad"
-]
-
-var pageConditions = {
-  conditions: [
-    new chrome.declarativeContent.PageStateMatcher({
-      // if on one of our brand list pages, show the pop-up
-      // brand_websites.includes(parser.hostname.replace('www.',''))
-      pageUrl: {
-        // schemes: brand_websites
-        schemes: ["http","https"]
-      }
-    }),
-  ],
-  actions: [
-    new chrome.declarativeContent.ShowPageAction()
-    // if on one of our brand list pages, match to the correct page
-  ]
-}
-
-chrome.runtime.onInstalled.addListener(function() {
-  chrome.declarativeContent.onPageChanged.removeRules(undefined, function() {
-    chrome.declarativeContent.onPageChanged.addRules([pageConditions]);
-  });
-});
