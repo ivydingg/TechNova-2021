@@ -302,7 +302,7 @@ window.onload = function () {
       hostname = cleanHostname(parser.hostname);
       if (brand_websites.includes(hostname)) {
         updateBrandName(hostname);
-        updateStars("We avoid"); // just a test to make sure we got the stuff
+        updateStars("It's a Start"); // just a test to make sure we got the stuff
       }
     });
   }
