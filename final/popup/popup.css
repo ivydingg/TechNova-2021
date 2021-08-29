@@ -1,6 +1,6 @@
 
 body {
-  padding-top: 10px;
+  padding-top: 15px;
   text-align: center;
   background-color: #ffffff;
 }
@@ -8,8 +8,9 @@ body {
 .goodonyou-info {
   background-color: #fff6f0;
   display: block;
-  margin: 15px;
-  padding: 15px;
+  margin: 10px;
+  padding-top: 15px;
+  padding-bottom: 5px;
   border-radius: 8px;
 }
 
@@ -63,7 +64,7 @@ hr {
   color: #DA6239;
   font-family: "Montserrat";
   font-weight: bold;
-  font-size: 15px;
+  font-size: 18px;
 }
 
 .container {
@@ -94,6 +95,19 @@ hr {
   max-height:100%;
   display: block;
   margin:  auto ;
+}
+
+.item-name {
+  font-family: "Montserrat";
+  font-size: 15px;
+  line-height: 15px;
+}
+
+.price {
+  font-family: "Montserrat";
+  font-size: 15px;
+  font-weight: bold;
+  line-height: 15px;
 }
 
 li {
