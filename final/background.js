@@ -278,7 +278,6 @@ var pageConditions = {
   ],
   actions: [
     new chrome.declarativeContent.ShowPageAction()
-    // if on one of our brand list pages, match to the correct page
   ]
 }
 
