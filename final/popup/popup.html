@@ -5,6 +5,8 @@
     integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
     
     <link rel="stylesheet"
+          href="https://fonts.googleapis.com/css?family=Montserrat">
+    <link rel="stylesheet"
           href="https://fonts.googleapis.com/css?family=Open+Sans">
 
     <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
@@ -17,28 +19,27 @@
     </style>
   </head>
   <body>
-    <div id="goodonyou-info">
-      <p class="title">Current Page</p>
-      <p class="disp-cost" id="cost">$$$</p>
-      <p class="title">Rating</p>
+    <p class="title">Current Page</p>
+    <div class="goodonyou-info">
+      <p class="rate-title">Good On You Rating</p>
       
-      <span id="star0" class="fa fa-star checked"></span>
-      <span id="star1" class="fa fa-star checked"></span>
+      <span id="star0" class="fa fa-star"></span>
+      <span id="star1" class="fa fa-star"></span>
       <span id="star2" class="fa fa-star"></span>
       <span id="star3" class="fa fa-star"></span>
       <span id="star4" class="fa fa-star"></span>
 
       <p class="disp-rate" id="rate-description">loading...</p>
     </div>
+    <hr>
     <div class="container">
-      <h5>Shop second-hand</h5>
-      </br>
+      <p class="subtitle">SHOP SECOND-HAND</p>
 
       <!-- Slideshow container -->
       <div class="w3-content w3-display-container">
         <div class ="slideshow">
-          <img class="mySlides_secHand" src="images/filler-meme.jpg">
           <img class="mySlides_secHand" src="images/tshirt-icon.jpg">
+          <img class="mySlides_secHand" src="images/filler-meme.jpg">
         </div>
 
         <button class = "w3-button w3-display-left" id="prev_sechand">&#10094;</button>
@@ -48,16 +49,18 @@
 
       <script src="popup.js"></script>
     </div>
+    <button class="buy-better-button" id="buy-used-button">Buy better now!</button>
 
+    <hr>
+    
     <div class="container">
-      <h5>Shop new</h5>
-      </br>
+      <p class="subtitle">SHOP NEW</p>
 
       <!-- Slideshow container -->
       <div class="w3-content w3-display-container">
         <div class ="slideshow">
-          <img class="mySlides_new" src="images/filler-meme.jpg">
           <img class="mySlides_new" src="images/tshirt-icon.jpg">
+          <img class="mySlides_new" src="images/filler-meme.jpg">
         </div>
 
         <button class = "w3-button w3-display-left" id="prev_new">&#10094;</button>
@@ -67,5 +70,8 @@
 
       <script src="popup.js"></script>
     </div>
+    <button class="buy-better-button" id="buy-new-button">Buy better now!</button>
+    <br>
+    <p></p>
   </body>
 </html>
