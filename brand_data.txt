@@ -1,0 +1,260 @@
+2XU: {'rating': 'Not good enough', 'price': '$$', 'GoodOnYou_url': 'https://directory.goodonyou.eco/brand/2xu'}
+A New Day: {'rating': 'Not good enough', 'price': '$', 'GoodOnYou_url': 'https://directory.goodonyou.eco/brand/a-new-day'}
+Abysse: {'rating': "It's a start", 'price': '$$', 'GoodOnYou_url': 'https://directory.goodonyou.eco/brand/abysse'}
+Adam Lippes: {'rating': 'Not good enough', 'price': '$$$', 'GoodOnYou_url': 'https://directory.goodonyou.eco/brand/adam-lippes'}
+Adidas: {'rating': 'Good', 'price': '$$', 'GoodOnYou_url': 'https://directory.goodonyou.eco/brand/adidas'}
+Adidas by Stella McCartney: {'rating': 'Good', 'price': '$$', 'GoodOnYou_url': 'https://directory.goodonyou.eco/brand/adidas-by-stella-mccartney'}
+AEANCE: {'rating': 'Good', 'price': '$$$', 'GoodOnYou_url': 'https://directory.goodonyou.eco/brand/aeance'}
+Aerie: {'rating': 'Not good enough', 'price': '$$', 'GoodOnYou_url': 'https://directory.goodonyou.eco/brand/aerie'}
+Aldi: {'rating': 'Not good enough', 'price': None, 'GoodOnYou_url': 'https://directory.goodonyou.eco/brand/aldi'}
+Ally Fashion: {'rating': 'We avoid', 'price': '$', 'GoodOnYou_url': 'https://directory.goodonyou.eco/brand/ally-fashion'}
+Altar'd state: {'rating': 'We avoid', 'price': '$$', 'GoodOnYou_url': 'https://directory.goodonyou.eco/brand/altard-state'}
+Ambiletics: {'rating': 'Good', 'price': '$$', 'GoodOnYou_url': 'https://directory.goodonyou.eco/brand/ambiletics'}
+American Apparel: {'rating': 'Not good enough', 'price': '$$', 'GoodOnYou_url': 'https://directory.goodonyou.eco/brand/american-apparel'}
+American Eagle: {'rating': 'Not good enough', 'price': '$$', 'GoodOnYou_url': 'https://directory.goodonyou.eco/brand/american-eagle'}
+Amir Slama: {'rating': 'Not good enough', 'price': '$$$', 'GoodOnYou_url': 'https://directory.goodonyou.eco/brand/amir-slama'}
+Thousands of rated brands: {'rating': None, 'price': None, 'GoodOnYou_url': 'https://directory.goodonyou.eco/brand/wolven-threads'}
+Arket: {'rating': "It's a start", 'price': '$$', 'GoodOnYou_url': 'https://directory.goodonyou.eco/brand/arket'}
+ashmei: {'rating': 'Not good enough', 'price': '$$', 'GoodOnYou_url': 'https://directory.goodonyou.eco/brand/ashmei'}
+ASOS: {'rating': 'Not good enough', 'price': '$$', 'GoodOnYou_url': 'https://directory.goodonyou.eco/brand/asos'}
+ASSOS: {'rating': 'Not good enough', 'price': '$$', 'GoodOnYou_url': 'https://directory.goodonyou.eco/brand/assos'}
+Athleta: {'rating': "It's a start", 'price': '$$', 'GoodOnYou_url': 'https://directory.goodonyou.eco/brand/athleta'}
+Aura 7 Activewear: {'rating': "It's a start", 'price': '$$', 'GoodOnYou_url': 'https://directory.goodonyou.eco/brand/aura-7-activewear'}
+Avila: {'rating': 'Good', 'price': '$$', 'GoodOnYou_url': 'https://directory.goodonyou.eco/brand/avila'}
+Aztech Mountain: {'rating': 'Not good enough', 'price': '$$$', 'GoodOnYou_url': 'https://directory.goodonyou.eco/brand/aztech-mountain'}
+Bamford: {'rating': 'Not good enough', 'price': '$$', 'GoodOnYou_url': 'https://directory.goodonyou.eco/brand/bamford'}
+Baukjen: {'rating': 'Good', 'price': '$$', 'GoodOnYou_url': 'https://directory.goodonyou.eco/brand/baukjen'}
+BAY Active: {'rating': 'Good', 'price': '$$', 'GoodOnYou_url': 'https://directory.goodonyou.eco/brand/bay-active'}
+Beaumont Organic: {'rating': 'Good', 'price': '$$', 'GoodOnYou_url': 'https://directory.goodonyou.eco/brand/beaumont-organic'}
+Beginning Boutique: {'rating': 'We avoid', 'price': '$$', 'GoodOnYou_url': 'https://directory.goodonyou.eco/brand/beginning-boutique'}
+Beyond Bare by Barely There: {'rating': "It's a start", 'price': '$$', 'GoodOnYou_url': 'https://directory.goodonyou.eco/brand/beyond-bare-by-barely-there'}
+Bhumi: {'rating': 'Great', 'price': '$$', 'GoodOnYou_url': 'https://directory.goodonyou.eco/brand/bhumi'}
+Big W: {'rating': 'Not good enough', 'price': '$', 'GoodOnYou_url': 'https://directory.goodonyou.eco/brand/big-w'}
+bleed: {'rating': 'Great', 'price': '$$', 'GoodOnYou_url': 'https://directory.goodonyou.eco/brand/bleed'}
+Boden: {'rating': 'Not good enough', 'price': '$$', 'GoodOnYou_url': 'https://directory.goodonyou.eco/brand/boden'}
+Boob: {'rating': 'Good', 'price': '$$', 'GoodOnYou_url': 'https://directory.goodonyou.eco/brand/boob'}
+Boody: {'rating': 'Good', 'price': '$', 'GoodOnYou_url': 'https://directory.goodonyou.eco/brand/boody'}
+Boohoo: {'rating': 'We avoid', 'price': '$', 'GoodOnYou_url': 'https://directory.goodonyou.eco/brand/boohoo'}
+BP.: {'rating': 'Not good enough', 'price': '$$', 'GoodOnYou_url': 'https://directory.goodonyou.eco/brand/bp'}
+Bravissimo: {'rating': 'Not good enough', 'price': '$$', 'GoodOnYou_url': 'https://directory.goodonyou.eco/brand/bravissimo'}
+Brooks: {'rating': 'Not good enough', 'price': '$$', 'GoodOnYou_url': 'https://directory.goodonyou.eco/brand/brooks'}
+Bulwark: {'rating': "It's a start", 'price': '$$', 'GoodOnYou_url': 'https://directory.goodonyou.eco/brand/bulwark'}
+BZees: {'rating': 'Not good enough', 'price': None, 'GoodOnYou_url': 'https://directory.goodonyou.eco/brand/bzees'}
+Café du Cycliste: {'rating': 'Not good enough', 'price': '$$$', 'GoodOnYou_url': 'https://directory.goodonyou.eco/brand/cafe-du-cycliste'}
+CasaGIN: {'rating': 'Good', 'price': '$$', 'GoodOnYou_url': 'https://directory.goodonyou.eco/brand/casagin'}
+Castelli Cycling: {'rating': 'We avoid', 'price': '$$', 'GoodOnYou_url': 'https://directory.goodonyou.eco/brand/castelli-cycling'}
+Castro: {'rating': 'Not good enough', 'price': '$', 'GoodOnYou_url': 'https://directory.goodonyou.eco/brand/castro'}
+caur: {'rating': 'Good', 'price': '$$', 'GoodOnYou_url': 'https://directory.goodonyou.eco/brand/caur'}
+Chelsea28: {'rating': 'Not good enough', 'price': '$$', 'GoodOnYou_url': 'https://directory.goodonyou.eco/brand/chelsea28'}
+Chiara Ferragni: {'rating': 'Not good enough', 'price': '$$', 'GoodOnYou_url': 'https://directory.goodonyou.eco/brand/chiara-ferragni'}
+Classiques Entier: {'rating': 'Not good enough', 'price': '$$', 'GoodOnYou_url': 'https://directory.goodonyou.eco/brand/classiques-entier'}
+Cotopaxi: {'rating': 'Good', 'price': '$$', 'GoodOnYou_url': 'https://directory.goodonyou.eco/brand/cotopaxi'}
+Cotton On: {'rating': 'Not good enough', 'price': '$', 'GoodOnYou_url': 'https://directory.goodonyou.eco/brand/cotton-on'}
+Cotton On Body: {'rating': 'Not good enough', 'price': '$', 'GoodOnYou_url': 'https://directory.goodonyou.eco/brand/cotton-on-body'}
+Culthread: {'rating': 'Great', 'price': '$$', 'GoodOnYou_url': 'https://directory.goodonyou.eco/brand/culthread'}
+Danskin: {'rating': 'We avoid', 'price': '$$', 'GoodOnYou_url': 'https://directory.goodonyou.eco/brand/danskin'}
+Day Won: {'rating': 'Good', 'price': '$$', 'GoodOnYou_url': 'https://directory.goodonyou.eco/brand/day-won'}
+Dazey LA: {'rating': 'Good', 'price': '$$', 'GoodOnYou_url': 'https://directory.goodonyou.eco/brand/dazey-la'}
+Dear Kate: {'rating': 'Not good enough', 'price': '$$', 'GoodOnYou_url': 'https://directory.goodonyou.eco/brand/dear-kate'}
+Decathlon: {'rating': 'Not good enough', 'price': '$$', 'GoodOnYou_url': 'https://directory.goodonyou.eco/brand/decathlon'}
+DENHAM: {'rating': "It's a start", 'price': '$$', 'GoodOnYou_url': 'https://directory.goodonyou.eco/brand/denham'}
+Denizen from Levi's: {'rating': "It's a start", 'price': '$$', 'GoodOnYou_url': 'https://directory.goodonyou.eco/brand/denizen-from-levis'}
+Dharma Bums: {'rating': 'Great', 'price': '$$', 'GoodOnYou_url': 'https://directory.goodonyou.eco/brand/dharma-bums'}
+DillySocks: {'rating': 'Good', 'price': '$', 'GoodOnYou_url': 'https://directory.goodonyou.eco/brand/dillysocks'}
+dk active: {'rating': 'Good', 'price': '$$', 'GoodOnYou_url': 'https://directory.goodonyou.eco/brand/dk-active'}
+DKNY: {'rating': 'We avoid', 'price': '$$', 'GoodOnYou_url': 'https://directory.goodonyou.eco/brand/dkny'}
+Doucal's: {'rating': 'Not good enough', 'price': '$$', 'GoodOnYou_url': 'https://directory.goodonyou.eco/brand/doucals'}
+Dr. Scholls Shoes: {'rating': 'Not good enough', 'price': None, 'GoodOnYou_url': 'https://directory.goodonyou.eco/brand/dr-scholls-shoes'}
+Dunlop: {'rating': 'Not good enough', 'price': '$', 'GoodOnYou_url': 'https://directory.goodonyou.eco/brand/dunlop'}
+ecowool: {'rating': 'Not good enough', 'price': '$$', 'GoodOnYou_url': 'https://directory.goodonyou.eco/brand/ecowool'}
+Edwin USA: {'rating': 'Good', 'price': '$$', 'GoodOnYou_url': 'https://directory.goodonyou.eco/brand/edwin-usa'}
+Elle Evans: {'rating': 'Great', 'price': '$$', 'GoodOnYou_url': 'https://directory.goodonyou.eco/brand/elle-evans'}
+ellesse: {'rating': 'Not good enough', 'price': '$$', 'GoodOnYou_url': 'https://directory.goodonyou.eco/brand/ellesse'}
+else: {'rating': 'Not good enough', 'price': '$$', 'GoodOnYou_url': 'https://directory.goodonyou.eco/brand/else'}
+Endura: {'rating': 'Not good enough', 'price': '$$', 'GoodOnYou_url': 'https://directory.goodonyou.eco/brand/endura'}
+ERES: {'rating': 'Not good enough', 'price': '$$$', 'GoodOnYou_url': 'https://directory.goodonyou.eco/brand/eres'}
+Etam: {'rating': 'Not good enough', 'price': '$', 'GoodOnYou_url': 'https://directory.goodonyou.eco/brand/etam'}
+Everlast: {'rating': 'Not good enough', 'price': '$', 'GoodOnYou_url': 'https://directory.goodonyou.eco/brand/everlast'}
+Fabletics: {'rating': 'Not good enough', 'price': '$$', 'GoodOnYou_url': 'https://directory.goodonyou.eco/brand/fabletics'}
+Factorie: {'rating': 'Not good enough', 'price': '$$', 'GoodOnYou_url': 'https://directory.goodonyou.eco/brand/factorie'}
+Famous Footwear: {'rating': 'Not good enough', 'price': None, 'GoodOnYou_url': 'https://directory.goodonyou.eco/brand/famous-footwear'}
+Fendi: {'rating': 'Not good enough', 'price': '$$$', 'GoodOnYou_url': 'https://directory.goodonyou.eco/brand/fendi'}
+FILA: {'rating': 'We avoid', 'price': '$$', 'GoodOnYou_url': 'https://directory.goodonyou.eco/brand/fila'}
+Finisterre: {'rating': 'Good', 'price': '$$', 'GoodOnYou_url': 'https://directory.goodonyou.eco/brand/finisterre'}
+Fjällräven: {'rating': "It's a start", 'price': '$$', 'GoodOnYou_url': 'https://directory.goodonyou.eco/brand/fjallraven'}
+Forever 21: {'rating': 'We avoid', 'price': '$', 'GoodOnYou_url': 'https://directory.goodonyou.eco/brand/forever-21'}
+Freya Lingerie and Swimwear: {'rating': 'Not good enough', 'price': None, 'GoodOnYou_url': 'https://directory.goodonyou.eco/brand/freya-lingerie-and-swimwear'}
+Fruit of the Loom: {'rating': 'Not good enough', 'price': '$', 'GoodOnYou_url': 'https://directory.goodonyou.eco/brand/fruit-of-the-loom'}
+FTLA Apparel: {'rating': 'Good', 'price': '$$', 'GoodOnYou_url': 'https://directory.goodonyou.eco/brand/ftla-apparel'}
+Gap: {'rating': "It's a start", 'price': '$$', 'GoodOnYou_url': 'https://directory.goodonyou.eco/brand/gap'}
+Girlfriend Collective: {'rating': 'Great', 'price': '$$', 'GoodOnYou_url': 'https://directory.goodonyou.eco/brand/girlfriend-collective'}
+Good American: {'rating': 'We avoid', 'price': '$$', 'GoodOnYou_url': 'https://directory.goodonyou.eco/brand/good-american'}
+Good for Sunday: {'rating': 'Good', 'price': '$$', 'GoodOnYou_url': 'https://directory.goodonyou.eco/brand/good-for-sunday'}
+GORE® WEAR: {'rating': 'Not good enough', 'price': '$$', 'GoodOnYou_url': 'https://directory.goodonyou.eco/brand/gore-wear'}
+Grand Slam: {'rating': 'Not good enough', 'price': None, 'GoodOnYou_url': 'https://directory.goodonyou.eco/brand/grand-slam'}
+Greenpacha: {'rating': "It's a start", 'price': '$$', 'GoodOnYou_url': 'https://directory.goodonyou.eco/brand/greenpacha'}
+Guess: {'rating': 'Not good enough', 'price': '$$', 'GoodOnYou_url': 'https://directory.goodonyou.eco/brand/guess-inc'}
+Gunda Hafner: {'rating': 'Good', 'price': '$$', 'GoodOnYou_url': 'https://directory.goodonyou.eco/brand/gunda-hafner'}
+Gymshark: {'rating': 'Not good enough', 'price': '$$', 'GoodOnYou_url': 'https://directory.goodonyou.eco/brand/gymshark'}
+H&M: {'rating': "It's a start", 'price': '$', 'GoodOnYou_url': 'https://directory.goodonyou.eco/brand/h-and-m'}
+Halara: {'rating': 'Not good enough', 'price': '$', 'GoodOnYou_url': 'https://directory.goodonyou.eco/brand/halara'}
+Halogen: {'rating': 'Not good enough', 'price': '$$', 'GoodOnYou_url': 'https://directory.goodonyou.eco/brand/halogen'}
+Hanes: {'rating': 'Not good enough', 'price': '$$', 'GoodOnYou_url': 'https://directory.goodonyou.eco/brand/hanes'}
+HARA: {'rating': 'Good', 'price': '$$', 'GoodOnYou_url': 'https://directory.goodonyou.eco/brand/hara'}
+Helly Hansen: {'rating': "It's a start", 'price': '$$', 'GoodOnYou_url': 'https://directory.goodonyou.eco/brand/helly-hansen'}
+Holland & Holland: {'rating': 'Not good enough', 'price': '$$$', 'GoodOnYou_url': 'https://directory.goodonyou.eco/brand/holland-and-holland'}
+Horizon Athletic: {'rating': "It's a start", 'price': '$$', 'GoodOnYou_url': 'https://directory.goodonyou.eco/brand/horizon-athletic'}
+Houdini: {'rating': 'Good', 'price': '$$', 'GoodOnYou_url': 'https://directory.goodonyou.eco/brand/houdini'}
+Hunkemöller: {'rating': 'Not good enough', 'price': '$$', 'GoodOnYou_url': 'https://directory.goodonyou.eco/brand/hunkemoller'}
+Hurley: {'rating': "It's a start", 'price': '$$', 'GoodOnYou_url': 'https://directory.goodonyou.eco/brand/hurley'}
+Hush: {'rating': 'Not good enough', 'price': '$$', 'GoodOnYou_url': 'https://directory.goodonyou.eco/brand/hush'}
+Icebreaker: {'rating': "It's a start", 'price': '$$', 'GoodOnYou_url': 'https://directory.goodonyou.eco/brand/icebreaker'}
+Icebug: {'rating': "It's a start", 'price': '$$', 'GoodOnYou_url': 'https://directory.goodonyou.eco/brand/icebug'}
+Ideology: {'rating': 'Not good enough', 'price': None, 'GoodOnYou_url': 'https://directory.goodonyou.eco/brand/ideology'}
+Iron Roots: {'rating': 'Good', 'price': '$$', 'GoodOnYou_url': 'https://directory.goodonyou.eco/brand/iron-roots'}
+Isadore Apparel: {'rating': "It's a start", 'price': '$$$', 'GoodOnYou_url': 'https://directory.goodonyou.eco/brand/isadore-apparel'}
+Jordan: {'rating': "It's a start", 'price': '$$', 'GoodOnYou_url': 'https://directory.goodonyou.eco/brand/jordan'}
+Just My Size: {'rating': "It's a start", 'price': '$', 'GoodOnYou_url': 'https://directory.goodonyou.eco/brand/just-my-size'}
+Kappa: {'rating': 'We avoid', 'price': '$$', 'GoodOnYou_url': 'https://directory.goodonyou.eco/brand/kappa'}
+Knix: {'rating': 'Not good enough', 'price': '$$', 'GoodOnYou_url': 'https://directory.goodonyou.eco/brand/knix'}
+KORAL: {'rating': 'Not good enough', 'price': '$$', 'GoodOnYou_url': 'https://directory.goodonyou.eco/brand/koral'}
+Kusaga Athletic: {'rating': 'Not good enough', 'price': '$$', 'GoodOnYou_url': 'https://directory.goodonyou.eco/brand/kusaga-athletic'}
+La DoubleJ: {'rating': 'Not good enough', 'price': '$$', 'GoodOnYou_url': 'https://directory.goodonyou.eco/brand/la-doublej'}
+La Senza: {'rating': 'Not good enough', 'price': '$$', 'GoodOnYou_url': 'https://directory.goodonyou.eco/brand/la-senza'}
+La Vie en Rose: {'rating': 'We avoid', 'price': '$$', 'GoodOnYou_url': 'https://directory.goodonyou.eco/brand/la-vie-en-rose'}
+LAmade Clothing: {'rating': 'Good', 'price': '$$', 'GoodOnYou_url': 'https://directory.goodonyou.eco/brand/lamade-clothing'}
+Lands' End: {'rating': 'Not good enough', 'price': '$$', 'GoodOnYou_url': 'https://directory.goodonyou.eco/brand/lands-end'}
+Laundry by Shelli Segal: {'rating': 'Not good enough', 'price': '$$', 'GoodOnYou_url': 'https://directory.goodonyou.eco/brand/laundry-by-shelli-segal'}
+Le Col: {'rating': 'Not good enough', 'price': '$$$', 'GoodOnYou_url': 'https://directory.goodonyou.eco/brand/le-col'}
+le coq sportif: {'rating': 'We avoid', 'price': '$$', 'GoodOnYou_url': 'https://directory.goodonyou.eco/brand/le-coq-sportif'}
+Lee Cooper: {'rating': 'We avoid', 'price': '$$', 'GoodOnYou_url': 'https://directory.goodonyou.eco/brand/lee-cooper'}
+Linea: {'rating': 'Not good enough', 'price': '$', 'GoodOnYou_url': 'https://directory.goodonyou.eco/brand/linea'}
+Lisa Marie Fernandez: {'rating': 'Not good enough', 'price': '$$$', 'GoodOnYou_url': 'https://directory.goodonyou.eco/brand/lisa-marie-fernandez'}
+Lively: {'rating': 'We avoid', 'price': '$$', 'GoodOnYou_url': 'https://directory.goodonyou.eco/brand/lively'}
+Living Crafts: {'rating': 'Great', 'price': '$$', 'GoodOnYou_url': 'https://directory.goodonyou.eco/brand/living-crafts'}
+Lonsdale: {'rating': 'Not good enough', 'price': '$', 'GoodOnYou_url': 'https://directory.goodonyou.eco/brand/lonsdale'}
+Lorna Jane: {'rating': 'Not good enough', 'price': '$$', 'GoodOnYou_url': 'https://directory.goodonyou.eco/brand/lorna-jane'}
+Lucy: {'rating': "It's a start", 'price': '$$', 'GoodOnYou_url': 'https://directory.goodonyou.eco/brand/lucy'}
+Lululemon: {'rating': 'Not good enough', 'price': '$$', 'GoodOnYou_url': 'https://directory.goodonyou.eco/brand/lululemon'}
+Luva Huva: {'rating': 'Good', 'price': '$$', 'GoodOnYou_url': 'https://directory.goodonyou.eco/brand/luva-huva'}
+Lygia & Nanny: {'rating': 'Not good enough', 'price': '$$$', 'GoodOnYou_url': 'https://directory.goodonyou.eco/brand/lygia-and-nanny'}
+Macpac: {'rating': 'Not good enough', 'price': None, 'GoodOnYou_url': 'https://directory.goodonyou.eco/brand/macpac'}
+Maidenform: {'rating': "It's a start", 'price': None, 'GoodOnYou_url': 'https://directory.goodonyou.eco/brand/maidenform'}
+Maison Michel: {'rating': 'Not good enough', 'price': '$$$', 'GoodOnYou_url': 'https://directory.goodonyou.eco/brand/maison-michel'}
+Make + Model: {'rating': "It's a start", 'price': '$$', 'GoodOnYou_url': 'https://directory.goodonyou.eco/brand/make-model'}
+Mammut: {'rating': 'Not good enough', 'price': '$$', 'GoodOnYou_url': 'https://directory.goodonyou.eco/brand/mammut'}
+MANDALA: {'rating': 'Good', 'price': '$$', 'GoodOnYou_url': 'https://directory.goodonyou.eco/brand/mandala'}
+Manduka: {'rating': 'Not good enough', 'price': '$$', 'GoodOnYou_url': 'https://directory.goodonyou.eco/brand/manduka'}
+MANOLA: {'rating': "It's a start", 'price': '$$', 'GoodOnYou_url': 'https://directory.goodonyou.eco/brand/manola'}
+Marks & Spencer: {'rating': 'Good', 'price': '$', 'GoodOnYou_url': 'https://directory.goodonyou.eco/brand/marks-and-spencer'}
+Maurices: {'rating': 'Not good enough', 'price': '$$', 'GoodOnYou_url': 'https://directory.goodonyou.eco/brand/maurices'}
+Mavic: {'rating': 'We avoid', 'price': '$$', 'GoodOnYou_url': 'https://directory.goodonyou.eco/brand/mavic'}
+MICHI: {'rating': "It's a start", 'price': '$$', 'GoodOnYou_url': 'https://directory.goodonyou.eco/brand/michi'}
+Mizuno: {'rating': 'Not good enough', 'price': '$$', 'GoodOnYou_url': 'https://directory.goodonyou.eco/brand/mizuno'}
+Modibodi: {'rating': "It's a start", 'price': '$', 'GoodOnYou_url': 'https://directory.goodonyou.eco/brand/modibodi'}
+Moncler: {'rating': 'Not good enough', 'price': '$$$', 'GoodOnYou_url': 'https://directory.goodonyou.eco/brand/moncler'}
+Mountain Hardwear: {'rating': "It's a start", 'price': '$$', 'GoodOnYou_url': 'https://directory.goodonyou.eco/brand/mountain-hardwear'}
+Muscle Republic: {'rating': 'Not good enough', 'price': '$$', 'GoodOnYou_url': 'https://directory.goodonyou.eco/brand/muscle-republic'}
+Naja: {'rating': 'Good', 'price': '$$', 'GoodOnYou_url': 'https://directory.goodonyou.eco/brand/naja'}
+Napapijri: {'rating': "It's a start", 'price': '$$', 'GoodOnYou_url': 'https://directory.goodonyou.eco/brand/napapijri'}
+Nasty Gal: {'rating': 'We avoid', 'price': '$', 'GoodOnYou_url': 'https://directory.goodonyou.eco/brand/nasty-gal'}
+New Balance: {'rating': 'Not good enough', 'price': '$$', 'GoodOnYou_url': 'https://directory.goodonyou.eco/brand/new-balance'}
+Nike: {'rating': "It's a start", 'price': '$$', 'GoodOnYou_url': 'https://directory.goodonyou.eco/brand/nike'}
+Nimble: {'rating': "It's a start", 'price': '$$', 'GoodOnYou_url': 'https://directory.goodonyou.eco/brand/nimble'}
+Nomads Clothing: {'rating': "It's a start", 'price': '$$', 'GoodOnYou_url': 'https://directory.goodonyou.eco/brand/nomads-clothing'}
+NoMiNoU: {'rating': 'Good', 'price': '$$', 'GoodOnYou_url': 'https://directory.goodonyou.eco/brand/nominou'}
+Nordstrom: {'rating': 'Not good enough', 'price': '$$', 'GoodOnYou_url': 'https://directory.goodonyou.eco/brand/nordstrom'}
+nu-in: {'rating': 'Good', 'price': '$$', 'GoodOnYou_url': 'https://directory.goodonyou.eco/brand/nu-in'}
+Nube: {'rating': 'Great', 'price': '$$', 'GoodOnYou_url': 'https://directory.goodonyou.eco/brand/nube'}
+O-Mighty: {'rating': 'Not good enough', 'price': '$$', 'GoodOnYou_url': 'https://directory.goodonyou.eco/brand/o-mighty'}
+Oakley: {'rating': 'Not good enough', 'price': '$$', 'GoodOnYou_url': 'https://directory.goodonyou.eco/brand/oakley'}
+ODLO: {'rating': "It's a start", 'price': '$$', 'GoodOnYou_url': 'https://directory.goodonyou.eco/brand/odlo'}
+Organic Basics: {'rating': 'Great', 'price': '$$', 'GoodOnYou_url': 'https://directory.goodonyou.eco/brand/organic-basics'}
+ORTOVOX: {'rating': 'Not good enough', 'price': '$$', 'GoodOnYou_url': 'https://directory.goodonyou.eco/brand/ortovox'}
+Outdoor Voices: {'rating': 'Not good enough', 'price': '$$', 'GoodOnYou_url': 'https://directory.goodonyou.eco/brand/outdoor-voices'}
+Outerknown: {'rating': 'Good', 'price': '$$', 'GoodOnYou_url': 'https://directory.goodonyou.eco/brand/outerknown'}
+Oy: {'rating': 'Good', 'price': '$$', 'GoodOnYou_url': 'https://directory.goodonyou.eco/brand/oy'}
+PaaPii Design: {'rating': 'Great', 'price': '$', 'GoodOnYou_url': 'https://directory.goodonyou.eco/brand/paapii-design'}
+Paco Rabanne: {'rating': 'We avoid', 'price': '$$$', 'GoodOnYou_url': 'https://directory.goodonyou.eco/brand/paco-rabanne'}
+PACT: {'rating': 'Good', 'price': '$$', 'GoodOnYou_url': 'https://directory.goodonyou.eco/brand/pact'}
+Panconesi: {'rating': 'Not good enough', 'price': '$$', 'GoodOnYou_url': 'https://directory.goodonyou.eco/brand/panconesi'}
+Pansy: {'rating': 'Good', 'price': '$$', 'GoodOnYou_url': 'https://directory.goodonyou.eco/brand/pansy'}
+Papaya: {'rating': 'We avoid', 'price': '$', 'GoodOnYou_url': 'https://directory.goodonyou.eco/brand/papaya'}
+Patagonia: {'rating': 'Good', 'price': '$$', 'GoodOnYou_url': 'https://directory.goodonyou.eco/brand/patagonia'}
+Perfect Moment: {'rating': 'Not good enough', 'price': '$$', 'GoodOnYou_url': 'https://directory.goodonyou.eco/brand/perfect-moment'}
+Playtex: {'rating': "It's a start", 'price': '$$', 'GoodOnYou_url': 'https://directory.goodonyou.eco/brand/playtex'}
+Plein Sport: {'rating': 'We avoid', 'price': '$$$', 'GoodOnYou_url': 'https://directory.goodonyou.eco/brand/plein-sport'}
+prAna: {'rating': "It's a start", 'price': '$$', 'GoodOnYou_url': 'https://directory.goodonyou.eco/brand/prana'}
+Presca: {'rating': 'Good', 'price': '$$', 'GoodOnYou_url': 'https://directory.goodonyou.eco/brand/presca'}
+Pressio: {'rating': 'Good', 'price': '$$', 'GoodOnYou_url': 'https://directory.goodonyou.eco/brand/pressio'}
+PrettyLittleThing: {'rating': 'We avoid', 'price': '$$', 'GoodOnYou_url': 'https://directory.goodonyou.eco/brand/prettylittlething'}
+Primark: {'rating': 'Not good enough', 'price': '$', 'GoodOnYou_url': 'https://directory.goodonyou.eco/brand/primark'}
+Principles: {'rating': 'Not good enough', 'price': '$$', 'GoodOnYou_url': 'https://directory.goodonyou.eco/brand/principles'}
+Proof: {'rating': 'Not good enough', 'price': '$$', 'GoodOnYou_url': 'https://directory.goodonyou.eco/brand/proof'}
+Purusha People: {'rating': 'Good', 'price': '$$', 'GoodOnYou_url': 'https://directory.goodonyou.eco/brand/purusha-people'}
+Rapha: {'rating': 'Not good enough', 'price': '$$', 'GoodOnYou_url': 'https://directory.goodonyou.eco/brand/rapha'}
+Reebok: {'rating': "It's a start", 'price': '$$', 'GoodOnYou_url': 'https://directory.goodonyou.eco/brand/reebok'}
+REI: {'rating': 'Not good enough', 'price': '$$', 'GoodOnYou_url': 'https://directory.goodonyou.eco/brand/rei'}
+Reitmans: {'rating': 'We avoid', 'price': '$', 'GoodOnYou_url': 'https://directory.goodonyou.eco/brand/reitmans'}
+REVOLVE: {'rating': 'We avoid', 'price': '$', 'GoodOnYou_url': 'https://directory.goodonyou.eco/brand/revolve'}
+Rip Curl: {'rating': 'Not good enough', 'price': '$$', 'GoodOnYou_url': 'https://directory.goodonyou.eco/brand/rip-curl'}
+River Island: {'rating': 'We avoid', 'price': '$$', 'GoodOnYou_url': 'https://directory.goodonyou.eco/brand/river-island'}
+Rochas: {'rating': 'Not good enough', 'price': '$$$', 'GoodOnYou_url': 'https://directory.goodonyou.eco/brand/rochas'}
+Rosa Mosa: {'rating': 'Not good enough', 'price': '$$', 'GoodOnYou_url': 'https://directory.goodonyou.eco/brand/rosa-mosa'}
+Rossignol: {'rating': 'Not good enough', 'price': '$$', 'GoodOnYou_url': 'https://directory.goodonyou.eco/brand/rossignol'}
+Rubi: {'rating': 'Not good enough', 'price': '$', 'GoodOnYou_url': 'https://directory.goodonyou.eco/brand/rubi'}
+Ruby & Bloom: {'rating': "It's a start", 'price': '$$', 'GoodOnYou_url': 'https://directory.goodonyou.eco/brand/ruby-and-bloom'}
+RVCA: {'rating': 'We avoid', 'price': '$$', 'GoodOnYou_url': 'https://directory.goodonyou.eco/brand/rvca'}
+Rykä: {'rating': 'Not good enough', 'price': '$$', 'GoodOnYou_url': 'https://directory.goodonyou.eco/brand/ryka'}
+Sage Larock: {'rating': 'Good', 'price': '$$', 'GoodOnYou_url': 'https://directory.goodonyou.eco/brand/sage-larock'}
+Salomon: {'rating': 'Not good enough', 'price': '$$', 'GoodOnYou_url': 'https://directory.goodonyou.eco/brand/salomon'}
+Secndnture: {'rating': 'We avoid', 'price': '$$', 'GoodOnYou_url': 'https://directory.goodonyou.eco/brand/secndnture'}
+Sejour: {'rating': 'Not good enough', 'price': '$$', 'GoodOnYou_url': 'https://directory.goodonyou.eco/brand/sejour'}
+Sézane: {'rating': 'Not good enough', 'price': '$$', 'GoodOnYou_url': 'https://directory.goodonyou.eco/brand/sezane'}
+Sharper Image: {'rating': 'We avoid', 'price': '$$', 'GoodOnYou_url': 'https://directory.goodonyou.eco/brand/sharper-image'}
+SHEIN: {'rating': 'We avoid', 'price': '$', 'GoodOnYou_url': 'https://directory.goodonyou.eco/brand/shein'}
+Showpo: {'rating': 'We avoid', 'price': '$$', 'GoodOnYou_url': 'https://directory.goodonyou.eco/brand/showpo'}
+Silou: {'rating': 'Good', 'price': '$$', 'GoodOnYou_url': 'https://directory.goodonyou.eco/brand/silou'}
+Simons: {'rating': 'We avoid', 'price': '$$', 'GoodOnYou_url': 'https://directory.goodonyou.eco/brand/simons'}
+Smartwool: {'rating': "It's a start", 'price': '$$', 'GoodOnYou_url': 'https://directory.goodonyou.eco/brand/smartwool'}
+Sonoma: {'rating': 'Not good enough', 'price': None, 'GoodOnYou_url': 'https://directory.goodonyou.eco/brand/sonoma'}
+Spalding: {'rating': 'Not good enough', 'price': '$$', 'GoodOnYou_url': 'https://directory.goodonyou.eco/brand/spalding'}
+SPANX: {'rating': 'We avoid', 'price': '$$', 'GoodOnYou_url': 'https://directory.goodonyou.eco/brand/spanx'}
+Starter: {'rating': 'We avoid', 'price': '$$', 'GoodOnYou_url': 'https://directory.goodonyou.eco/brand/starter'}
+Summersalt: {'rating': 'Not good enough', 'price': '$$', 'GoodOnYou_url': 'https://directory.goodonyou.eco/brand/summersalt'}
+Sun & Shadow: {'rating': "It's a start", 'price': '$$', 'GoodOnYou_url': 'https://directory.goodonyou.eco/brand/sun-and-shadow'}
+Sundried: {'rating': 'Not good enough', 'price': '$$', 'GoodOnYou_url': 'https://directory.goodonyou.eco/brand/sundried'}
+Sundry: {'rating': 'Not good enough', 'price': '$$', 'GoodOnYou_url': 'https://directory.goodonyou.eco/brand/sundry'}
+Superdry: {'rating': 'Not good enough', 'price': '$$', 'GoodOnYou_url': 'https://directory.goodonyou.eco/brand/superdry'}
+Superstainable: {'rating': 'Good', 'price': '$$', 'GoodOnYou_url': 'https://directory.goodonyou.eco/brand/superstainable'}
+Sweaty Betty: {'rating': 'Not good enough', 'price': '$$', 'GoodOnYou_url': 'https://directory.goodonyou.eco/brand/sweaty-betty'}
+TALA: {'rating': 'Good', 'price': '$$', 'GoodOnYou_url': 'https://directory.goodonyou.eco/brand/tala'}
+Target Australia: {'rating': 'Not good enough', 'price': '$', 'GoodOnYou_url': 'https://directory.goodonyou.eco/brand/target-australia'}
+Team Timbuktu: {'rating': 'Good', 'price': '$$', 'GoodOnYou_url': 'https://directory.goodonyou.eco/brand/team-timbuktu'}
+tentree: {'rating': 'Good', 'price': '$$', 'GoodOnYou_url': 'https://directory.goodonyou.eco/brand/tentree'}
+The North Face: {'rating': "It's a start", 'price': '$$', 'GoodOnYou_url': 'https://directory.goodonyou.eco/brand/the-north-face'}
+The Upside: {'rating': 'Not good enough', 'price': '$$', 'GoodOnYou_url': 'https://directory.goodonyou.eco/brand/the-upside'}
+Thinx: {'rating': 'Not good enough', 'price': '$$', 'GoodOnYou_url': 'https://directory.goodonyou.eco/brand/thinx'}
+Threads 4 Thought: {'rating': 'Good', 'price': '$$', 'GoodOnYou_url': 'https://directory.goodonyou.eco/brand/threads-4-thought'}
+Thunderpants USA: {'rating': 'Great', 'price': '$$', 'GoodOnYou_url': 'https://directory.goodonyou.eco/brand/thunderpants-usa'}
+Torrid: {'rating': 'We avoid', 'price': '$', 'GoodOnYou_url': 'https://directory.goodonyou.eco/brand/torrid'}
+Treasure&Bond: {'rating': 'Not good enough', 'price': '$$', 'GoodOnYou_url': 'https://directory.goodonyou.eco/brand/treasure-and-bond'}
+Triple2: {'rating': "It's a start", 'price': '$$', 'GoodOnYou_url': 'https://directory.goodonyou.eco/brand/triple2'}
+Trouvé: {'rating': 'Not good enough', 'price': '$$', 'GoodOnYou_url': 'https://directory.goodonyou.eco/brand/trouve'}
+True Tribe: {'rating': 'Good', 'price': '$$', 'GoodOnYou_url': 'https://directory.goodonyou.eco/brand/true-tribe'}
+Tucker + Tate: {'rating': "It's a start", 'price': '$$', 'GoodOnYou_url': 'https://directory.goodonyou.eco/brand/tucker-tate'}
+Ulvang: {'rating': 'Not good enough', 'price': '$$', 'GoodOnYou_url': 'https://directory.goodonyou.eco/brand/ulvang'}
+Under Armour: {'rating': 'Not good enough', 'price': '$$', 'GoodOnYou_url': 'https://directory.goodonyou.eco/brand/under-armour'}
+Undiz: {'rating': 'Not good enough', 'price': '$$', 'GoodOnYou_url': 'https://directory.goodonyou.eco/brand/undiz'}
+Uniqlo: {'rating': "It's a start", 'price': '$', 'GoodOnYou_url': 'https://directory.goodonyou.eco/brand/uniqlo'}
+V by Very: {'rating': 'Not good enough', 'price': '$$', 'GoodOnYou_url': 'https://directory.goodonyou.eco/brand/v-by-very'}
+VAUDE: {'rating': 'Good', 'price': '$$', 'GoodOnYou_url': 'https://directory.goodonyou.eco/brand/vaude'}
+Velocio: {'rating': 'Good', 'price': '$$', 'GoodOnYou_url': 'https://directory.goodonyou.eco/brand/velocio'}
+Versace: {'rating': 'Not good enough', 'price': '$$$', 'GoodOnYou_url': 'https://directory.goodonyou.eco/brand/versace'}
+Vivo Barefoot: {'rating': "It's a start", 'price': '$$', 'GoodOnYou_url': 'https://directory.goodonyou.eco/brand/vivo-barefoot'}
+VYAYAMA: {'rating': "It's a start", 'price': '$$', 'GoodOnYou_url': 'https://directory.goodonyou.eco/brand/vyayama'}
+West Activewear: {'rating': "It's a start", 'price': '$$', 'GoodOnYou_url': 'https://directory.goodonyou.eco/brand/west-activewear'}
+Yuki Threads: {'rating': 'Good', 'price': '$$', 'GoodOnYou_url': 'https://directory.goodonyou.eco/brand/yuki-threads'}
+Zanni: {'rating': "It's a start", 'price': '$$', 'GoodOnYou_url': 'https://directory.goodonyou.eco/brand/zanni'}
+Zella: {'rating': 'Not good enough', 'price': '$$', 'GoodOnYou_url': 'https://directory.goodonyou.eco/brand/zella'}
+Zen Nomad: {'rating': "It's a start", 'price': '$$', 'GoodOnYou_url': 'https://directory.goodonyou.eco/brand/zen-nomad'}
